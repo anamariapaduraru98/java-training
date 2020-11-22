@@ -1,4 +1,5 @@
 package code._2_challenge._2_foobarqix;
+import code._4_student_effort.Challenge_1.FooBarQix;
 
 import org.junit.Assert;
 

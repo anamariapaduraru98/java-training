@@ -1,9 +1,8 @@
 package code._2_challenge._1_fizzbuzz;
+import code._4_student_effort.Challenge_1.FizzBuzz;
 
 import org.junit.Assert;
-
 import java.util.Map;
-
 import static java.util.Map.entry;
 
 public class FizzBuzzTest {
@@ -40,11 +39,11 @@ public class FizzBuzzTest {
 
   public static Map<Integer, String> stage2 = Map.ofEntries(
           entry(7, "Rizz"),
-          entry(9, "FizzJazz"),
+          entry(9, "Fizz"),
           entry(14, "Rizz"),
-          entry(18, "FizzJazz"),
+          entry(18, "Fizz"),
           entry(21, "FizzRizz"),
-          entry(27, "FizzJazz"),
+          entry(33, "FizzJazz"),
           entry(28, "Rizz")
   );
 

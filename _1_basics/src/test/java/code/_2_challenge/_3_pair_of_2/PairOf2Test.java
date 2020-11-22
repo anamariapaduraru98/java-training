@@ -1,4 +1,5 @@
 package code._2_challenge._3_pair_of_2;
+import code._4_student_effort.Challenge_1.PairOf2;
 
 import org.junit.Assert;
 

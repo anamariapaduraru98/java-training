@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Map;
 
 import static java.util.Map.entry;
-
+import code._4_student_effort.Challenge_1.PairOf3;
 public class PairOf3Test {
   public static Map<Integer[], Integer> data = Map.ofEntries(
           entry(new Integer[]{-1, -1, -1, 2}, 1)
